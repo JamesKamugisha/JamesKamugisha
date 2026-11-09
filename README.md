@@ -24,3 +24,6 @@ My goal is to grow from my IT background into software engineering, with a focus
 https://kjames.dev
 
 [Explore Firmbrik](https://www.firmbrik.com)
+
+## Resume
+[Download my resume](James%20Kamugisha%20Resume.pdf)
