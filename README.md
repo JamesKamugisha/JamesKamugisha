@@ -15,15 +15,13 @@ I am also strengthening my understanding of mathematics, system design, software
 Firmbrik is a housing platform I am developing for Uganda, with a broader interest in East Africa. It brings together property discovery, land information, construction planning, and building progress tracking.
 The project gives me practical experience in designing user workflows and developing web and mobile applications. It also challenges me to make complex housing and construction processes easier to understand.
 Firmbrik is under active development, and its source code is currently private.
+[Explore Firmbrik](https://www.firmbrik.com)
 
 ## Current Goals
 My goal is to grow from my IT background into software engineering, with a focus on AI and infrastructure. I plan to continue building practical projects while improving how I test, document, and explain my work.
 
 ## Website
-
 https://kjames.dev
-
-[Explore Firmbrik](https://www.firmbrik.com)
 
 ## Resume
 [Download my resume](James%20Kamugisha%20Resume.pdf)
